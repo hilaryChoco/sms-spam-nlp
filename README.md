@@ -5,49 +5,12 @@ en utilisant le traitement du langage naturel (NLP) et le Machine Learning.
 
 ## Résultats
 
-
-|
- Métrique 
-|
- Ham 
-|
- Spam 
-|
-|
----
-|
----
-|
----
-|
-|
- Accuracy globale 
-|
- 98% 
-|
- — 
-|
-|
- Precision 
-|
- 97% 
-|
- 100% 
-|
-|
- Recall 
-|
- 100% 
-|
- 83% 
-|
-|
- F1-score 
-|
- 99% 
-|
- 91% 
-|
+| Métrique | Ham | Spam |
+|---|---|---|
+| Accuracy globale | 98% | — |
+| Precision | 97% | 100% |
+| Recall | 100% | 83% |
+| F1-score | 99% | 91% |
 
 ## Stack technique
 
